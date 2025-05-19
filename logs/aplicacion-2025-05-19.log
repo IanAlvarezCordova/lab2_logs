@@ -1,0 +1,12 @@
+2025-05-19T23:14:08.993Z
+         [SILLY] : Mensaje de nivel mas bajo
+2025-05-19T23:14:08.994Z
+         [DEBUG] : Mensaje es un mensaje de tipo debug
+2025-05-19T23:14:08.994Z
+         [VERBOSE] : Mnsj de evento general mas detallado ipo verbose
+2025-05-19T23:14:08.995Z
+         [INFO] : Mensaje de infomracion
+2025-05-19T23:14:08.995Z
+         [WARN] : Mensaje de advertencia, wrn algo ocurrio mal
+2025-05-19T23:14:08.995Z
+         [ERROR] : Mensaje de error, fallo imporatnte
