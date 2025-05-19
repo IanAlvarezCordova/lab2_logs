@@ -1,5 +1,5 @@
 const express = require('express');
-const morganMiddleware = require('./logger/morganMiddleware');
+const morganMiddleware = require('../logger/morganMiddleware');
 
 const app = express();
 app.use(morganMiddleware);

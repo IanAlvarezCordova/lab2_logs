@@ -10,3 +10,37 @@
          [WARN] : Mensaje de advertencia, wrn algo ocurrio mal
 2025-05-19T23:14:08.995Z
          [ERROR] : Mensaje de error, fallo imporatnte
+2025-05-19T23:35:59.616Z
+         [HTTP] : GET / 200 39 - 6.008 ms
+2025-05-19T23:35:59.637Z
+         [HTTP] : GET /favicon.ico 404 150 - 1.587 ms
+2025-05-19T23:37:10.352Z
+         [HTTP] : GET / 304 - - 0.451 ms
+2025-05-19T23:39:03.741Z
+         [HTTP] : [0mGET / [36m304[0m 1.368 ms - -[0m
+2025-05-19T23:39:37.136Z
+         [HTTP] : ::1 - - [19/May/2025:23:39:37 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-19T23:43:58.704Z
+         [HTTP] : ::1 - - [19/May/2025:23:43:58 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-19T23:44:36.444Z
+         [HTTP] : ::ffff:10.9.7.71 - - [19/May/2025:23:44:36 +0000] "GET / HTTP/1.1" 200 39 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-19T23:44:36.465Z
+         [HTTP] : ::ffff:10.9.7.71 - - [19/May/2025:23:44:36 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://10.9.7.71:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-19T23:45:00.588Z
+         [HTTP] : ::ffff:10.40.48.205 - - [19/May/2025:23:45:00 +0000] "GET / HTTP/1.1" 200 39 "-" "curl/8.11.1"
+2025-05-19T23:46:33.011Z
+         [HTTP] : ::ffff:10.40.48.205 - - [19/May/2025:23:46:33 +0000] "GET / HTTP/1.1" 200 39 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+2025-05-19T23:46:33.266Z
+         [HTTP] : ::ffff:10.40.48.205 - - [19/May/2025:23:46:33 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://10.9.7.71:4000/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+2025-05-19T23:47:32.346Z
+         [HTTP] : ::ffff:10.40.45.99 - - [19/May/2025:23:47:32 +0000] "GET / HTTP/1.1" 200 39 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+2025-05-19T23:47:32.431Z
+         [HTTP] : ::ffff:10.40.45.99 - - [19/May/2025:23:47:32 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://10.9.7.71:4000/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+2025-05-19T23:47:41.543Z
+         [HTTP] : ::ffff:10.40.45.99 - - [19/May/2025:23:47:41 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+2025-05-19T23:47:44.665Z
+         [HTTP] : ::ffff:10.40.45.99 - - [19/May/2025:23:47:44 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+2025-05-19T23:47:46.002Z
+         [HTTP] : ::ffff:10.40.45.99 - - [19/May/2025:23:47:46 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+2025-05-19T23:47:47.356Z
+         [HTTP] : ::ffff:10.40.45.99 - - [19/May/2025:23:47:47 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"

@@ -11,7 +11,8 @@ const stream = {
 
 //crear el middleware de Morgan con un formato personalizado
 const morganMiddleware = morgan(
-    ':method :url :status :res[content-length] - :response-time ms', 
+    //':method :url :status :res[content-length] - :response-time ms', 
+    'combined',
     {stream}
 );
 
